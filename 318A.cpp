@@ -4,6 +4,8 @@ Even Odds
 
 // chnaged by rahil
 #include <bits/stdc++.h>
+#include<stdio.h>
+
 using namespace std;
 int main()
 {
